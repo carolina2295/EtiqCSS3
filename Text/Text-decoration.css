@@ -1,0 +1,11 @@
+<head>
+<style="type:text/css">
+p.parpadeo{text-decoration: blink}
+a.sin_linea{text-decoration: none}
+</style>
+</head>
+<body>
+<p class="parpadeo">Texto parpadeando</p>
+<a class="sin_linea"href="https://www.youtube.com">
+ir a la home de youtube</a>
+</body>

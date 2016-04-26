@@ -1,0 +1,10 @@
+<head>
+<style type="text/css">
+p.der{text-align: right}
+p.cen{text-align:center}
+</style>
+</head>
+<body>
+<p class="der">Texto la derecha</p>
+<p class="cen">Texto en el centro</p>
+</body>
